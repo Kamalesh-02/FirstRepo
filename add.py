@@ -1,4 +1,4 @@
 print('Hello,World!!!!')
-a = 23
-b = 67
+a = 10
+b = 6
 print(a+b)
